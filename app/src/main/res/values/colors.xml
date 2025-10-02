@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="naranja">#fca311</color>
-    <color name="verde">#6a994e</color>
-    <color name="rojo">#d00000</color>
+    <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+        <color name="naranja">#fca311</color>
+        <color name="verde">#6a994e</color>
+        <color name="rojo">#d00000</color>
+
+        <color name="primary_color">@color/naranja</color>
+        <color name="secondary_color">@color/verde</color>
+        <color name="tertiary_color">#4361ee</color>
+        <color name="surface_color">@color/white</color>
+        <color name="background_color">#f7f7f7</color>
+        <color name="accent_color">@color/naranja</color>
+        <color name="error_color">@color/rojo</color>
+        <color name="text_primary">@color/black</color>
+        <color name="text_secondary">#757575</color>         </resources>
 </resources>
